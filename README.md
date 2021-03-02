@@ -1,2 +1,19 @@
-# Vue-VK-API-Firebase
-Vue-VK-API-Firebase/ build for iOS and Android/ NativeVue.js
+# artifact
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
