@@ -1,5 +1,17 @@
 # artifact
+This is Vuejs project for Bar "Artifact"
+I have technical task and all what i done for organizator
 
+Im using Vue/Vuexjs + (plagins), Firebase, Vk API
+
+
+## --V of project 0.01 - PREBATA!
+
+[![Watch the video](https://youtu.be/lsxg-w-iaUc)
+
+
+
+//////////////
 ## Project setup
 ```
 npm install
