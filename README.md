@@ -7,9 +7,10 @@ Im using Vue/Vuexjs + (plagins), Firebase, Vk API
 
 ## --V of project 0.01 - PREBATA!
 
-[![Alt text for your video](https://youtu.be/lsxg-w-iaUc)
 
-<h1>OPA</h1>
+<video>
+ <source src="https://youtu.be/lsxg-w-iaUc">
+</video>
 
 //////////////
 ## Project setup
