@@ -7,7 +7,7 @@ Im using Vue/Vuexjs + (plagins), Firebase, Vk API
 
 ## --V of project 0.01 - PREBATA!
 
-[![Watch the video](https://youtu.be/lsxg-w-iaUc)
+[![asciicast](https://youtu.be/lsxg-w-iaUc)
 
 
 
