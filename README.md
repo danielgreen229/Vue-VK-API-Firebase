@@ -8,9 +8,7 @@ Im using Vue/Vuexjs + (plagins), Firebase, Vk API
 ## --V of project 0.01 - PREBATA!
 
 (https://youtu.be/lsxg-w-iaUc)
-<video>
- <source src="https://youtu.be/lsxg-w-iaUc">
-</video>
+
 
 //////////////
 ## Project setup
